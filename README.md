@@ -20,4 +20,4 @@ This app is a React Native application designed to provide users with informatio
 
 ## Running the tests
 
-### run `yarn test` in the root of the app.
+### Run `yarn test` in the root of the app.

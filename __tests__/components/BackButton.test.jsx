@@ -1,5 +1,5 @@
 import { render, fireEvent, screen } from '@testing-library/react-native';
-import BackButton from '../src/components/Buttons/BackButton';
+import BackButton from '../../src/components/Buttons/BackButton';
 
 const mockOnPress = jest.fn();
 

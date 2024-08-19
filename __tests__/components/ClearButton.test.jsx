@@ -1,5 +1,5 @@
 import { render, fireEvent, screen } from '@testing-library/react-native';
-import ClearButton from '../src/components/Buttons/ClearButton';
+import ClearButton from '../../src/components/Buttons/ClearButton';
 
 const mockOnPress = jest.fn();
 

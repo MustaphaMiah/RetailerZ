@@ -1,5 +1,5 @@
 import { render, fireEvent, screen } from '@testing-library/react-native';
-import PrimaryButton from '../src/components/Buttons/PrimaryButton';
+import PrimaryButton from '../../src/components/Buttons/PrimaryButton';
 
 const mockOnPress = jest.fn();
 
